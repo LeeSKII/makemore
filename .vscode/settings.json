@@ -1,10 +1,14 @@
 {
   "cSpell.words": [
+    "bnbais",
+    "bnbias",
+    "bngain",
     "cmap",
     "figsize",
     "hpreact",
     "imshow",
     "itos",
+    "kaiming",
     "keepdim",
     "lossi",
     "nelement",
