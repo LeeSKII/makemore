@@ -3,7 +3,10 @@
     "bnbais",
     "bnbias",
     "bngain",
+    "bnmean",
+    "bnstd",
     "cmap",
+    "embcat",
     "figsize",
     "hpreact",
     "imshow",
@@ -11,10 +14,14 @@
     "kaiming",
     "keepdim",
     "lossi",
+    "multinomial",
     "nelement",
     "stepi",
     "stoi",
     "Xdev",
+    "xhat",
+    "xmean",
+    "xvar",
     "Ydev"
   ]
 }
